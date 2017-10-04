@@ -1,0 +1,10 @@
+python
+R
+latex
+stata
+computer science
+mysql
+microsoft office
+analytics
+Java
+VB
