@@ -36,7 +36,3 @@ appropriate packages, please
 cd ResumeParser/
 pip install -r requirements.txt
 ```
-
-
-## Contact
-Feel free to contact me at 13herger <at> gmail <dot> com
